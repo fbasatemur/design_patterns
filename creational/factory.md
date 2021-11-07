@@ -8,7 +8,7 @@ Object is created using factory class. The object to be produced is connected vi
 
 ---
 
-![factory](https://github.com/fbasatemur/design_patterns/blob/main/cre_factory.png)
+![factory](https://github.com/fbasatemur/design_patterns/blob/main/diagrams/cre_factory.png)
 
 ---
 

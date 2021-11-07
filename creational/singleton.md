@@ -7,7 +7,7 @@ If it has been created before, the existing instance is used. Thus, the number o
 
 ---
 
-![singleton](https://github.com/fbasatemur/design_patterns/blob/main/cre_singleton.png)
+![singleton](https://github.com/fbasatemur/design_patterns/blob/main/diagrams/cre_singleton.png)
 
 ---
 
