@@ -11,7 +11,7 @@ If it has been created before, the existing instance is used. Thus, the number o
 
 ---
 
-```
+```c++
 
 class Singleton{
 private:

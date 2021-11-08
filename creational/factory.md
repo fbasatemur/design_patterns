@@ -12,7 +12,7 @@ Object is created using factory class. The object to be produced is connected vi
 
 ---
 
-```
+```c++
 
 //
 // Created by fbasatemur on 1.11.2021.
