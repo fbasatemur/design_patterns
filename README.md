@@ -8,7 +8,7 @@ All codes of pattern were created with C++ and these explained with UML diagrams
 * :white_check_mark: <a href="https://github.com/fbasatemur/design_patterns/blob/main/creational/singleton.md"> Singleton </a><br>
 * :white_check_mark: <a href="https://github.com/fbasatemur/design_patterns/blob/main/creational/factory.md"> Factory </a><br>
 * :white_check_mark: <a href="https://github.com/fbasatemur/design_patterns/blob/main/creational/abstract_factory.md"> Abstract Factory </a><br>
-* :white_check_mark: <a href="#"> Builder </a><br>
+* :white_check_mark: <a href="https://github.com/fbasatemur/design_patterns/blob/main/creational/builder.md"> Builder </a><br>
 * :white_check_mark: <a href="#"> Prototype </a><br>
 
 
