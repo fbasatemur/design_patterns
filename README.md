@@ -9,7 +9,7 @@ All codes of pattern were created with C++ and these explained with UML diagrams
 * :white_check_mark: <a href="https://github.com/fbasatemur/design_patterns/blob/main/creational/factory.md"> Factory </a><br>
 * :white_check_mark: <a href="https://github.com/fbasatemur/design_patterns/blob/main/creational/abstract_factory.md"> Abstract Factory </a><br>
 * :white_check_mark: <a href="https://github.com/fbasatemur/design_patterns/blob/main/creational/builder.md"> Builder </a><br>
-* :white_check_mark: <a href="#"> Prototype </a><br>
+* :white_check_mark: <a href="https://github.com/fbasatemur/design_patterns/blob/main/creational/prototype.md"> Prototype </a><br>
 
 
 <b><h3>Structural Patterns</h3></b>
@@ -27,13 +27,13 @@ All codes of pattern were created with C++ and these explained with UML diagrams
 
 * :white_check_mark: <a href="#"> Chain of Responsibility </a><br>
 * :white_check_mark: <a href="#"> State </a><br>
+* :white_check_mark: <a href="https://github.com/fbasatemur/design_patterns/blob/main/behavioral/iterator.md"> Iterator </a><br>
+* :white_check_mark: <a href="https://github.com/fbasatemur/design_patterns/blob/main/behavioral/strategy.md"> Strategy </a><br>
 * &#9744; <a href="#"> Command </a><br>
 * &#9744; <a href="#"> Interpreter </a><br>
-* &#9744; <a href="#"> Iterator </a><br>
 * &#9744; <a href="#"> Mediator </a><br>
 * &#9744; <a href="#"> Memento </a><br>
 * &#9744; <a href="#"> Observer </a><br>
-* &#9744; <a href="#"> Strategy </a><br>
 * &#9744; <a href="#"> Template Method </a><br>
 * &#9744; <a href="#"> Visitor </a><br>
 
