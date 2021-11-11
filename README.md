@@ -14,8 +14,8 @@ All codes of pattern were created with C++ and these explained with UML diagrams
 
 <b><h3>Structural Patterns</h3></b>
 
-* :white_check_mark: <a href="#"> Adapter </a><br>
-* :white_check_mark: <a href="#"> Bridge </a><br>
+* :white_check_mark: <a href="https://github.com/fbasatemur/design_patterns/blob/main/structural/adapter.md"> Adapter </a><br>
+* :white_check_mark: <a href="https://github.com/fbasatemur/design_patterns/blob/main/structural/bridge.md"> Bridge </a><br>
 * :white_check_mark: <a href="#"> Flyweight </a><br>
 * &#9744; <a href="#"> Composite </a><br>
 * &#9744; <a href="#"> Decorator </a><br>
@@ -25,8 +25,8 @@ All codes of pattern were created with C++ and these explained with UML diagrams
 
 <b><h3>Behavioral Patterns</h3></b>
 
-* :white_check_mark: <a href="#"> Chain of Responsibility </a><br>
-* :white_check_mark: <a href="#"> State </a><br>
+* :white_check_mark: <a href="https://github.com/fbasatemur/design_patterns/blob/main/behavioral/chain_of_responsibility.md"> Chain of Responsibility </a><br>
+* :white_check_mark: <a href="https://github.com/fbasatemur/design_patterns/blob/main/behavioral/state.md"> State </a><br>
 * :white_check_mark: <a href="https://github.com/fbasatemur/design_patterns/blob/main/behavioral/iterator.md"> Iterator </a><br>
 * :white_check_mark: <a href="https://github.com/fbasatemur/design_patterns/blob/main/behavioral/strategy.md"> Strategy </a><br>
 * &#9744; <a href="#"> Command </a><br>
