@@ -16,7 +16,7 @@ All codes of pattern were created with C++ and these explained with UML diagrams
 
 * :white_check_mark: <a href="https://github.com/fbasatemur/design_patterns/blob/main/structural/adapter.md"> Adapter </a><br>
 * :white_check_mark: <a href="https://github.com/fbasatemur/design_patterns/blob/main/structural/bridge.md"> Bridge </a><br>
-* :white_check_mark: <a href="#"> Flyweight </a><br>
+* :white_check_mark: <a href="https://github.com/fbasatemur/design_patterns/blob/main/structural/flyweight.md"> Flyweight </a><br>
 * &#9744; <a href="#"> Composite </a><br>
 * &#9744; <a href="#"> Decorator </a><br>
 * &#9744; <a href="#"> Facade </a><br>
