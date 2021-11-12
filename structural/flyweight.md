@@ -13,7 +13,7 @@ The flyweight design pattern is applied in 3 steps:
 In our example we will use the tetris game, shapes will be I, J and T;
 - Extensic state fields in these objects; color and speed. These fields are sent as parameters to the Create method in the Piece interface.
 - Next we will create a factory class to create the objects.
-- Factory sınıfında, If the related object has been created before, this object is returned. 
+- If the related object has been created before at factory class, this object is returned. 
 If the object has not been created before, then it is created with the new keyword. In both cases, the fields of the object, 
 which we call extensic state, are filled according to the properties of the new object to be created.
 
