@@ -14,24 +14,19 @@ If it has been created before, the existing instance is used. Thus, the number o
 ```c++
 
 class Singleton{
-private:
-    static Singleton* _instance;
-
 public:
-    static Singleton* GetInstance();
+    static Singleton& GetInstance();
 };
 
-Singleton* Singleton::_instance = nullptr;
-
-Singleton *Singleton::GetInstance() {
-    if(_instance == nullptr) _instance = new Singleton();
+Singleton& Singleton::GetInstance() {
+    static Singleton _instance;
     return _instance;
 }
 
 int main(){
 
-    auto * instance = Singleton::GetInstance();
-    delete instance;
+    auto& instance = Singleton::GetInstance();
+
     return 0;
 }
 
